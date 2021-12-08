@@ -1,6 +1,6 @@
 # Projeto04Socket
 
-Executando o código no terminal:
+Executando a classe SimpleSocketServer pelo terminal:
 
 	java [package path] [url] [endpoint]
 
